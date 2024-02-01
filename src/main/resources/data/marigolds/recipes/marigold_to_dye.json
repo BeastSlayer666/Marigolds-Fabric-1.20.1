@@ -8,5 +8,6 @@
     "result": {
         "item": "minecraft:orange_dye",
         "count": 1
-    }
+    },
+    "group": "orange_dye"
 }
